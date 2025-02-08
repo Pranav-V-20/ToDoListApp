@@ -11,14 +11,10 @@ app_author_organization - 	Pranav Industries
 app_author_locality - 		Chennai
 app_author_state - 		Tamil Nadu
 app_author_country - 		India
-app_password - 			3UbJ7BIiFjIn
 app_versionName - 		versionName "1.0"
-app_versionCode - 		100
 
 ---------------------------------------------------
-The certification was created by WebIntoApp.com at
-the Saturday 8th of February 2025 11:11:37 AM
-
-https://www.webintoapp.com
+The certification was published by WebIntoApp.com at
+the Saturday 8th of February
 ---------------------------------------------------
 
